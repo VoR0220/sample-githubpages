@@ -4,4 +4,4 @@
 This application is a copyright management system built on the Ethereum Blockchain
 
 ## Demo App
-Click [here](frontend/index.html) to launch the CryptoRight Application
+Click [here](crypto-frontend/index.html) to launch the CryptoRight Application
